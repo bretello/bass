@@ -10,6 +10,7 @@ jinja2 = "^2.11.2"
 flask = "^1.1.2"
 colorthief = "^0.2.1"
 requests = "^2.24.0"
+gunicorn = "^20.0.4"
 
 [tool.poetry.dev-dependencies]
 
